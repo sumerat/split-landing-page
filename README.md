@@ -1,6 +1,6 @@
 # split-landing-page
 
-Split landing page built with some heavy CSS, HTML and some JavaScript.
+Split landing page built with HTML, heavy CSS and some JavaScript.
 
 ## Deployment
 
