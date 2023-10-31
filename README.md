@@ -7,7 +7,7 @@ Split landing page built with HTML, heavy CSS and some JavaScript.
 Deployed Website: https://github.com/sumerat/split-landing-page
 
 ![split-landing-page](./screencapture-sumerat-github-io-split-landing-page-2022-06-17-22_03_23.png)
-
+https://sumerat.github.io/split-landing-page/
 ## Built With
 
   * HTML
